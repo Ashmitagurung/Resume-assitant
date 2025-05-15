@@ -1,0 +1,12 @@
+
+streamlit
+langchain
+langchain-core
+langchain-community
+sentence-transformers
+chromadb
+faiss-cpu
+langchain-groq
+langchain-mistralai
+pydantic
+pypdf
